@@ -241,7 +241,7 @@ strong{
 
 #my-projects-list a{
     text-decoration: none;
-    color: var(--dark3);
+    color: var(--white);
 }
 
 #my-projects-list a:hover{
